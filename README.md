@@ -16,9 +16,6 @@
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg">
 
----
-Colored Badges: https://github.com/MikeCodesDotNET/ColoredBadges  
-
 <!--
 **zsylver/zsylver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
