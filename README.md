@@ -1,4 +1,23 @@
-### Hi there 👋
+
+![banner](https://i.imgur.com/QwKeirw.png)
+# Creating memorable experiences
+
+* 🧠 Innovation is king!
+* 📝 Self-learning
+* 🌱 Transform
+
+### Languages and Tools
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<br>
+
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg">
+
+---
+Colored Badges: https://github.com/MikeCodesDotNET/ColoredBadges  
 
 <!--
 **zsylver/zsylver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
